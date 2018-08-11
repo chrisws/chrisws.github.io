@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>{{ page.name }}</h1>
+        <p>{{ page.help }}</p>
+        {% if page.name != "index" %}
+        <ul>
+          <li><a href="{{ page.link }}">View On <strong>{{ page.linkName }}</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      <section>
+      {{ content }}
+      </section>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
