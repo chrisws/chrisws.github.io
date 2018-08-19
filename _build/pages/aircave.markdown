@@ -20,6 +20,14 @@ You may also share the maze with a friend by creating a QR code. Your friend sca
 
 ### Release history
 
+19 August 2018 (Version 1.3)
+
+- Fix isssue with share results
+
+17 August 2018 (Version 1.2)
+
+- Update home screen design
+
 15 August 2018 (Version 1.1)
 
 - Fix issues with restart and gps signal lost
