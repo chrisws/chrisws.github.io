@@ -20,6 +20,12 @@ You may also share the maze with a friend by creating a QR code. Your friend sca
 
 ### Release history
 
+9 September 2018 (Version 1.4)
+
+- Fix potential crash at startup
+- Exit now always displayed
+- Added game start message
+
 19 August 2018 (Version 1.3)
 
 - Fix isssue with share results
