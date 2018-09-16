@@ -20,6 +20,11 @@ You may also share the maze with a friend by creating a QR code. Your friend sca
 
 ### Release history
 
+16 September 2018 (Version 1.5)
+
+- Now plays a chime when moving to a new valid tile
+- Fix handling of tile size during setup
+
 9 September 2018 (Version 1.4)
 
 - Fix potential crash at startup
