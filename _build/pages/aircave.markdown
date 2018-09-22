@@ -20,6 +20,10 @@ You may also share the maze with a friend by creating a QR code. Your friend sca
 
 ### Release history
 
+22 September 2018 (Version 1.6)
+
+- Fix when moving back to a valid position. The game now ends if the new position is the exit.
+
 16 September 2018 (Version 1.5)
 
 - Now plays a chime when moving to a new valid tile
