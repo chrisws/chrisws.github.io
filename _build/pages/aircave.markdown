@@ -20,6 +20,14 @@ You may also share the maze with a friend by creating a QR code. Your friend sca
 
 ### Release history
 
+4 January 2019 (Version 1.7)
+
+- Added a "Wolfenstein 3D" style view. You can toggle between this view and the grid view.
+- Fixed the displayed distance when you move away from the game.
+- If you cross a wall and stay there after two warnings, this becomes your new position.
+- The game no longer exits if you select "No Thanks" when prompted to enable location services.
+- Pressing the hardware volume keys now changes the audio/media volume.
+
 22 September 2018 (Version 1.6)
 
 - Fix when moving back to a valid position. The game now ends if the new position is the exit.
