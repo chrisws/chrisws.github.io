@@ -1,7 +1,5 @@
 ### Introduction
 
-Virtual stomp box/metronome
-
 I made this with google's new App development tool called flutter.
 
 What is a stomp box?
@@ -24,6 +22,6 @@ If you want a real stomp box, I highly recommend the Peterman Puck'n Stompa !!!
 
 ### Privacy Policy [](#privacy-policy)
 
-Stompbox does not rely on any special system permissions.
+Stompbox requires no special permissions to run.
 
 This Privacy Policy is effective as of 14/05/2018
