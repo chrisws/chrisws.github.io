@@ -2,9 +2,9 @@
 
 Virtual stomp box/metronome
 
-I made this with google's new App development tool called flutter. 
+I made this with google's new App development tool called flutter.
 
-What is a stomp box? 
+What is a stomp box?
 
 Wikipedia entry:
 
@@ -14,10 +14,10 @@ _A stomp box allows a performer such as a singer or guitar player to create a si
 
 How to use Stomp Box:
 
-Press the stomp button four times to set the tempo and start playing. 
-Press pause to stop playing. 
-Press pause again to resume playing or press stomp to start a new tempo. 
-Press KICK to change the bass drum sound. 
+Press the stomp button four times to set the tempo and start playing.
+Press pause to stop playing.
+Press pause again to resume playing or press stomp to start a new tempo.
+Press KICK to change the bass drum sound.
 Press pattern to change the beat sequence.
 
 If you want a real stomp box, I highly recommend the Peterman Puck'n Stompa !!!
