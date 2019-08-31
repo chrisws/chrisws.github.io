@@ -6,7 +6,9 @@ You define the maze by pacing out the boundary of the playing area. You select e
 
 ![Setup](images/aircave_setup.png)
 
-![Play](images/aircave_play.png)
+![Play - Map view](images/aircave_map.png)
+
+![Play - Grid view](images/aircave_play.png)
 
 ### Object of the game
 
@@ -19,6 +21,11 @@ You may share your game score via other apps for example text or email.
 You may also share the maze with a friend by creating a QR code. Your friend scans the code using the JOIN button.
 
 ### Release history
+
+31 August 2019 (Version 1.8)
+
+- Added new map interface
+- Removed google ads (for now)
 
 4 January 2019 (Version 1.7)
 
