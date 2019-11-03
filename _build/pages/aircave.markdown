@@ -22,6 +22,15 @@ You may also share the maze with a friend by creating a QR code. Your friend sca
 
 ### Release history
 
+3 November 2019 (Version 1.9)
+
+- Fix distance-from-game calculation
+- Fix to ensure coins generated for 3xn tile games
+- Implemented multi-level game play
+- Game now ends when you leave the game setup area
+- Updated the map display of player and exit positions
+- Removed the original grid display
+
 31 August 2019 (Version 1.8)
 
 - Added new map interface
