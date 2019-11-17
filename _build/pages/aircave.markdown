@@ -1,26 +1,36 @@
 ### Introduction
 
-Air Cave superimposes a maze over an outdoors playing area. The [GPS](https://en.wikipedia.org/wiki/GPS_navigation) feature on your android device gives your location in the maze.
+To play this game you must be outside. The aim of the game is to find your way though a virtual maze.
 
-You define the maze by pacing out the boundary of the playing area. You select each of the four corners of the maze by pressing the SET button on the setup screen.
+You walk or run to set your position in the game with help from the android [location](https://en.wikipedia.org/wiki/GPS_navigation) feature.
+
+Along the way you collect coins and try to complete as many levels as you can before play time is over.
+
+Please note, Air Cave does track your physical environment. It is your responsibility to play in a safe area.
+
+![Start](images/aircave_start.png)
 
 ![Setup](images/aircave_setup.png)
 
 ![Play - Map view](images/aircave_map.png)
 
-![Play - Grid view](images/aircave_play.png)
-
 ### Object of the game
 
-The object of the game is to collect all the hidden coins within the 5 minute play time. 
+The object of the game is to collect all the hidden coins within the 5 minute play time.
 
 ### Sharing
 
-You may share your game score via other apps for example text or email. 
+You may share your game score via other apps for example text or email.
 
 You may also share the maze with a friend by creating a QR code. Your friend scans the code using the JOIN button.
 
 ### Release history
+
+17 November 2019 (Version 1.10)
+
+- Now uses fused location handling
+- Implemented distance display
+- Fix handling for exiting game when moved away from grid
 
 3 November 2019 (Version 1.9)
 
@@ -130,7 +140,7 @@ Air Cave does track your physical location. It is your responsibility to play in
 
 ### Privacy Policy [](#privacy-policy)
 
-Air Cave requires permissions to access the camera of the device on which it is installed. 
+Air Cave requires permissions to access the camera of the device on which it is installed.
 
 The camera permission is required for sharing Air Cave game setup data with other players via the Share Game QR code.
 
