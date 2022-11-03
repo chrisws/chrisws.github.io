@@ -20,8 +20,7 @@ Press pattern to change the beat sequence.
 
 If you want a real stomp box, I highly recommend the Peterman Puck'n Stompa !!!
 
-### Privacy Policy [](#privacy-policy)
+[Privacy Policy](stompbox_privacy.html)
 
-Stompbox requires no special permissions to run.
 
-This Privacy Policy is effective as of 14/05/2018
+

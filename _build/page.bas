@@ -25,7 +25,7 @@ if (pagename == "aircave") then
   help = "Play outside"
   link = "https://play.google.com/store/apps/details?id=net.aircave"
   linkName = "Google play"
-elseif (pagename == "stompbox") then
+elseif (pagename == "stompbox" || pagename == "stompbox_privacy") then
   name = "Stompbox"
   help = "Virtual stomp box/metronome"
   link = "https://play.google.com/store/apps/details?id=net.stomp"
