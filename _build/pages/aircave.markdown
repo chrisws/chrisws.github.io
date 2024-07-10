@@ -26,6 +26,10 @@ You may also share the maze with a friend by creating a QR code. Your friend sca
 
 ### Release history
 
+10 July 2024 (Version 1.12)
+
+- Updated build for google play compliance
+
 23 October 2020 (Version 1.11)
 
 - Updated build for google play compliance
