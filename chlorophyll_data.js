@@ -1,9 +1,9 @@
 const CHLOROPHYLL_DATA = {
   "metadata": {
-    "generated": "2026-01-16T09:28:16.166135Z",
+    "generated": "2026-01-20T02:17:17.128585Z",
     "date_range": {
       "start": "2019-01-01",
-      "end": "2026-01-13"
+      "end": "2026-01-17"
     },
     "regions": [
       "GAB",
@@ -264,9 +264,9 @@ const CHLOROPHYLL_DATA = {
         ]
       }
     },
-    "total_dates": 2518,
+    "total_dates": 2522,
     "total_regions": 17,
-    "data_points": 31695,
+    "data_points": 31749,
     "source": "NOAA MSL12 VIIRS Merged SNPP+NOAA-20 NRT",
     "variable": "Chlorophyll-a Concentration",
     "units": "mg/m\u00b3"
@@ -50631,6 +50631,86 @@ const CHLOROPHYLL_DATA = {
       "Victor Harbour-Mt Gambier": 0.8832798600196838,
       "Mt Gambier": 0.2761821448802948,
       "Port Fairy": 0.21457844972610474
+    },
+    {
+      "date": "2026-01-14",
+      "GAB": null,
+      "Ceduna": 0.668838620185852,
+      "Port Lincoln": 0.662539541721344,
+      "Spencer Gulf N": 3.1469597816467285,
+      "Spencer Gulf S": 0.8094854354858398,
+      "SVG - NW": 2.6895029544830322,
+      "SVG - NE": 3.4500555992126465,
+      "SVG - SW": 0.854309618473053,
+      "SVG - SE": 0.6609152555465698,
+      "KI - W": 0.4931274652481079,
+      "KI - E": 0.7138554453849792,
+      "Victor - W": 0.4051249623298645,
+      "Victor - E": 0.8688737750053406,
+      "Lk Alex": 9.447052955627441,
+      "Victor Harbour-Mt Gambier": 0.6139057874679565,
+      "Mt Gambier": null,
+      "Port Fairy": 1.0813111066818237
+    },
+    {
+      "date": "2026-01-15",
+      "GAB": 0.3406192362308502,
+      "Ceduna": 0.7594014406204224,
+      "Port Lincoln": 0.6758010387420654,
+      "Spencer Gulf N": 2.893275499343872,
+      "Spencer Gulf S": 0.5509589314460754,
+      "SVG - NW": null,
+      "SVG - NE": null,
+      "SVG - SW": null,
+      "SVG - SE": null,
+      "KI - W": 0.16726045310497284,
+      "KI - E": null,
+      "Victor - W": null,
+      "Victor - E": null,
+      "Lk Alex": null,
+      "Victor Harbour-Mt Gambier": 0.5261686444282532,
+      "Mt Gambier": 0.16120576858520508,
+      "Port Fairy": 1.1722310781478882
+    },
+    {
+      "date": "2026-01-16",
+      "GAB": 0.4535982012748718,
+      "Ceduna": 0.7568657994270325,
+      "Port Lincoln": 0.6178579926490784,
+      "Spencer Gulf N": 3.063140630722046,
+      "Spencer Gulf S": 0.6090406775474548,
+      "SVG - NW": null,
+      "SVG - NE": 4.252890586853027,
+      "SVG - SW": null,
+      "SVG - SE": null,
+      "KI - W": 0.22639189660549164,
+      "KI - E": null,
+      "Victor - W": 0.5765052437782288,
+      "Victor - E": 1.45928955078125,
+      "Lk Alex": 8.339794158935547,
+      "Victor Harbour-Mt Gambier": 0.6212703585624695,
+      "Mt Gambier": 0.32103168964385986,
+      "Port Fairy": 0.41702547669410706
+    },
+    {
+      "date": "2026-01-17",
+      "GAB": 0.5551069378852844,
+      "Ceduna": 0.9380270838737488,
+      "Port Lincoln": 0.6914582848548889,
+      "Spencer Gulf N": 2.924908399581909,
+      "Spencer Gulf S": 0.8891062140464783,
+      "SVG - NW": 2.805912971496582,
+      "SVG - NE": 4.733544826507568,
+      "SVG - SW": 0.7617502212524414,
+      "SVG - SE": 0.9282854199409485,
+      "KI - W": 0.5189636945724487,
+      "KI - E": 0.998731255531311,
+      "Victor - W": 0.6250842213630676,
+      "Victor - E": 0.6693192720413208,
+      "Lk Alex": 9.275598526000977,
+      "Victor Harbour-Mt Gambier": 0.47655948996543884,
+      "Mt Gambier": 0.32172292470932007,
+      "Port Fairy": 0.7706008553504944
     }
   ]
 };
