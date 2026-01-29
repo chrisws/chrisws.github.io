@@ -4,10 +4,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chlorophyll-a Time Series Viewer</title>
+  <meta name="description" content="Explore chlorophyll-a data across South Australian regions with simple time and region filters.">
+  <meta name="keywords" content="algal bloom South Australia, harmful algal blooms, coastal water quality, algae monitoring, SA marine environment data, bloom forecasting, environmental data SA">
+  <meta name="author" content="Chris W-S">
+  <meta name="robots" content="index, follow">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="chlorophyll_data.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Bloom Watch",
+      "url": "https://chrisws.github.io/bloom-watch",
+      "description": "Explore chlorophyll-a data across South Australian regions with simple time and region filters.",
+      "publisher": {
+        "@type": "Personal",
+        "name": "Bloom Watch"
+      }
+    }
+  </script>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
    * {
